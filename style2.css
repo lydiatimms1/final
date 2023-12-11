@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #000000;
+    background-color: #47547c98; 
+}
+
+header {
+    background-color: rgb(220, 17, 17);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav {
+    background-color: rgb(241, 211, 227);
+    color: white;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section {
+    margin: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.styled-div {
+    background-color: #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Add any additional styles as needed */
+
+
+/* Add more styles as needed */
